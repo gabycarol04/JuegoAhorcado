@@ -32,7 +32,7 @@
     </div>
   </div>
   
-  <div class="row" *ngIf="mostrarLetras">
+  <div class="row letras-row" *ngIf="mostrarLetras">
     <div class="col text-center">
       <button *ngFor="let letra of letras" (click)="comprobar(letra)" class="btn btn-primary">
         {{ letra }}

@@ -1,4 +1,6 @@
 # JuegoAhorcado
+Tecnología utilizada: Angular
+
 ## Preview
 <img src="src/assets/screenshot/previewJuegoArhocado.png">
 
